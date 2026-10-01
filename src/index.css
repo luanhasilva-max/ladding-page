@@ -19,7 +19,7 @@ a {
   text-decoration: none;
 }
 
-/* CABEÇALHO */
+
 
 .header {
   background-color: #0b172a;
@@ -60,7 +60,7 @@ nav a:hover {
   color: #38bdf8;
 }
 
-/* HERO */
+
 
 .hero {
   min-height: 650px;
@@ -135,7 +135,7 @@ nav a:hover {
   border-radius: 12px;
 }
 
-/* SEÇÕES */
+
 
 .section {
   padding: 100px 7%;
@@ -164,7 +164,6 @@ nav a:hover {
   font-size: 38px;
 }
 
-/* SOBRE */
 
 .about-content {
   display: grid;
@@ -198,7 +197,6 @@ nav a:hover {
   line-height: 1.8;
 }
 
-/* APRENDIZADO */
 
 .cards {
   display: grid;
@@ -247,7 +245,7 @@ nav a:hover {
   font-size: 14px;
 }
 
-/* TECNOLOGIAS */
+
 
 .technologies {
   display: grid;
@@ -275,7 +273,7 @@ nav a:hover {
   transform: translateY(-4px);
 }
 
-/* ÁREAS */
+
 
 .areas {
   display: grid;
@@ -321,7 +319,7 @@ nav a:hover {
   line-height: 1.7;
 }
 
-/* PROJETOS */
+
 
 .project-grid {
   display: grid;
@@ -361,7 +359,7 @@ nav a:hover {
   line-height: 1.7;
 }
 
-/* CHAMADA FINAL */
+
 
 .cta {
   padding: 90px 7%;
@@ -406,7 +404,7 @@ nav a:hover {
   background-color: #7dd3fc;
 }
 
-/* RODAPÉ */
+
 
 .footer {
   background-color: #050c16;
@@ -427,7 +425,7 @@ nav a:hover {
   margin-top: 6px;
 }
 
-/* TABLET */
+
 
 @media (max-width: 900px) {
   .header {
@@ -471,7 +469,7 @@ nav a:hover {
   }
 }
 
-/* CELULAR */
+
 
 @media (max-width: 600px) {
   .header {
